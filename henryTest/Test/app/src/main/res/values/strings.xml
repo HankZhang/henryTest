@@ -173,4 +173,5 @@
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_main5">Main5Activity</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="test">test+++++++++</string>
 </resources>
